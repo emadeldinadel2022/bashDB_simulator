@@ -59,5 +59,7 @@ This Bash script provides a simple menu-driven interface for managing databases.
 3. **Run DB_DDL.sh file**:
     ```bash
     ./DB_DDL.sh
+## Demo
+https://github.com/emadeldinadel2022/bashDB_simulator/assets/62083769/2912e472-5d10-45f5-9f70-0a6a42baf519
 
 
