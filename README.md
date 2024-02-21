@@ -1,6 +1,6 @@
 # bashDB_simulator
 
-## Functionality
+## Functionalities
 
 1. Create Database :
     Prompts the user to enter the name of the new database, Checks if a database with the same name already exists, If not, creates a new directory with the provided name.
@@ -39,4 +39,20 @@
 
 13. Disconnect DB: 
     Disconnects from the current database and returns to the main menu.
+
+## Usage
+# Database Management Script
+
+This Bash script provides a simple menu-driven interface for managing databases. It allows users to create, list, connect to, and drop databases.
+
+## Usage
+
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/emadeldinadel2022/bashDB_simulator.git
+
+cd DB_DDL
+
+./DB_DDLsh
+
 
