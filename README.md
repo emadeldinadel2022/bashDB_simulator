@@ -51,8 +51,12 @@ This Bash script provides a simple menu-driven interface for managing databases.
    ```bash
    git clone https://github.com/emadeldinadel2022/bashDB_simulator.git
 
-cd DB_DDL
+2. **Make the file executable**:
+   ```bash
+    chmod +x DB_DDLsh
 
-./DB_DDLsh
+3. **Run DB_DDL.sh file**:
+    ```bash
+    ./DB_DDL.sh
 
 
