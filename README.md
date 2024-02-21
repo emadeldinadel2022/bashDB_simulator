@@ -1,4 +1,7 @@
 # bashDB_simulator
+# Database Management Simulator using Bash Scripting
+
+This Bash script provides a simple menu-driven interface for managing databases. It allows users to create, list, connect to, drop databases, crate, drop, list tables in the database, and select, delete, update, insert statements.
 
 ## Functionalities
 
@@ -41,9 +44,7 @@
     Disconnects from the current database and returns to the main menu.
 
 ## Usage
-# Database Management Script
 
-This Bash script provides a simple menu-driven interface for managing databases. It allows users to create, list, connect to, and drop databases.
 
 ## Usage
 
